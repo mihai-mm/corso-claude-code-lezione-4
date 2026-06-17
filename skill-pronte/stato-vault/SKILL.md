@@ -56,7 +56,7 @@ Una volta capita la struttura, procedi con i controlli sotto.
 ## Cautele (importante: lavori sul vault vero)
 
 - Se la cartella **non sembra un vault** (nessun progetto, nessuna mappa, nessuna struttura riconoscibile), **dillo e fermati**: meglio non inventare problemi su una cartella qualunque.
-- **Mai applicare correzioni in blocco.** Spostare un file e correggere un link sono modifiche vere: **una conferma per ognuna**, mai "sistemo tutto io".
+- **Chiedi come preferisce procedere**: rivedere **una modifica alla volta**, oppure approvare **in blocco** un gruppo di fix simili (es. tutti i link rotti insieme). C'è chi vuole controllare ogni passo e chi vuole andare veloce: rispetta la sua scelta. In ogni caso, niente viene applicato senza un suo ok.
 - Se un fix non è ovvio (più candidati, un dubbio), **chiedi** invece di decidere tu.
 - Nel dubbio su un file, **non toccarlo** e segnalalo soltanto.
 

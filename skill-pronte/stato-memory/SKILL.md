@@ -51,7 +51,7 @@ Manutenzione **del contenuto** delle memorie. È il gemello di `/stato-vault` (c
 ## Cautele (importante: lavori sulla memoria vera)
 
 - Se **non trovi file di memoria** nel vault, **dillo e fermati**: non cercare problemi altrove.
-- **Mai riscrivere un MEMORY in blocco.** Una modifica alla volta, con conferma esplicita.
+- **Chiedi come preferisce procedere**: una modifica alla volta, oppure un blocco di modifiche simili approvate insieme. Rispetta la sua scelta; niente viene scritto senza un suo ok.
 - Le decisioni in conflitto le risolve **lo studente**: tu mostri le versioni e chiedi, non scegli quale vale.
 - Per spostare una sezione di "stato corrente": se un diario/log dove metterla **non esiste ancora**, proponi dove crearlo (o di rimuovere soltanto la sezione) - non darlo per scontato.
 

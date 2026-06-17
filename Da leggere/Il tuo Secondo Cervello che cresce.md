@@ -123,6 +123,14 @@ E non la programmi: la **chiedi a Claude**. La stessa cosa vale per i tuoi dati 
 > **Il pattern "dashboard"**
 > Una vista a colpo d'occhio sui tuoi dati (le fasi di un progetto, le tue ore) la **chiedi** a Claude, non la programmi. Mostri il risultato, e il "come si costruisce" davvero lo vedi nella seconda parte di oggi, con la prima app: è la stessa logica.
 
+### Vuoi provarla sul tuo progetto?
+
+Non serve copiare la dashboard di nessuno: te ne fai una sui **tuoi** dati. Apri Claude nel tuo vault e chiedigli qualcosa come questo (adattalo al tuo caso):
+
+> *"Crea una dashboard in un solo file HTML che apro nel browser. Deve mostrare le fasi del progetto [NOME] e lo stato di ognuna (da fare / in corso / fatto), leggendo le informazioni dai file in [cartella del progetto]. Voglio vedere a colpo d'occhio a che punto siamo e cosa è fermo. Tienila semplice e ordinata, un file solo, senza database e senza cose da installare."*
+
+Claude legge i tuoi file, capisce le fasi e ti genera la pagina. Da lì la aggiusti a voce: *"aggiungi la data dell'ultimo aggiornamento per fase"*, *"metti in rosa la fase in corso"*. È **tua**, sui tuoi dati - e la modifichi parlando.
+
 ## Portartelo ovunque: il sistema ti segue
 
 Tutto questo - il vault, le skill, il soul, le dashboard - vive sul tuo computer. Ma tu non sei sempre alla tua scrivania.
