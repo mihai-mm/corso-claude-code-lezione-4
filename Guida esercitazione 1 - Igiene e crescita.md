@@ -57,7 +57,7 @@ Se c'è tempo, mostra che la stessa logica vale per un **PDF** (estrazione del t
 
 ## Passo 4 - La memoria che conosce te: il soul
 
-Questa è la crescita più importante. Sopra la memoria dei singoli clienti c'è una memoria che conosce **lo studente** attraverso tutti i progetti: il **soul**. Tre cassetti - **CHI** (chi sei e i tuoi clienti), **COME** (il tuo know-how riusabile), **PERCHÉ** (le scelte da non ridiscutere).
+Questa è la crescita più importante. Sopra la memoria dei singoli clienti c'è una memoria che conosce **lo studente** attraverso tutti i progetti: il **soul**. Due pezzi: il **carattere** del suo AI (il file `SOUL.md` - come Claude deve essere con lui: diretto, sintetico, ti sfida o ti asseconda) e **chi è lui** + cosa sa, smistato in tre cassetti - **CHI** (chi sei e i tuoi clienti), **COME** (il tuo know-how riusabile), **PERCHÉ** (le scelte da non ridiscutere).
 
 Per attivarlo, fai leggere allo studente (e segui tu) il file **"Guida soul - attivare la memoria che ti conosce.md"**: spiega come creare le cartelle del soul e come modificare il suo `CLAUDE.md` perché Claude le usi. Senza quei due passi, i file ci sono ma il comportamento no.
 
