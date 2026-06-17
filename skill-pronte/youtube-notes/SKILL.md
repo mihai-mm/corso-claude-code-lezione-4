@@ -54,6 +54,8 @@ Quando salvi, collega la nota alle cose del vault a cui si lega - ma **spiega se
 
 Mostra la nota finita, chiedi *"la salvo nelle Risorse?"*, e solo dopo il sì scrivi il file. Il messaggio da lasciare: *"più nutri il sistema da fuori, più diventa tuo."*
 
+> Se la trascrizione incollata è lunghissima, lavora sui punti che contano: non serve riportarla tutta nella nota, serve la sostanza. E non sovrascrivere una nota già esistente senza chiedere.
+
 ## Nota - oltre YouTube
 
 Lo stesso principio vale per un **PDF** o un documento: se lo studente ne ha uno, puoi estrarne il testo pulito (apri il file, leggine il contenuto) e portarlo dentro le Risorse con la stessa struttura. Non serve un programma speciale per i casi semplici.

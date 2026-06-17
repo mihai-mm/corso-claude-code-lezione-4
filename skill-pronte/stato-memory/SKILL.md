@@ -48,6 +48,13 @@ Manutenzione **del contenuto** delle memorie. È il gemello di `/stato-vault` (c
    - voce lunga → proponi la versione asciutta.
 4. **Non modificare** niente senza il sì esplicito.
 
+## Cautele (importante: lavori sulla memoria vera)
+
+- Se **non trovi file di memoria** nel vault, **dillo e fermati**: non cercare problemi altrove.
+- **Mai riscrivere un MEMORY in blocco.** Una modifica alla volta, con conferma esplicita.
+- Le decisioni in conflitto le risolve **lo studente**: tu mostri le versioni e chiedi, non scegli quale vale.
+- Per spostare una sezione di "stato corrente": se un diario/log dove metterla **non esiste ancora**, proponi dove crearlo (o di rimuovere soltanto la sezione) - non darlo per scontato.
+
 ## Output
 
 Un breve riepilogo: cosa è stato riconciliato, cosa è rimasto in sospeso. Il messaggio da lasciare: *"una memoria pulita è la differenza tra risposte affidabili e un Claude che si confonde sui tuoi dati."*

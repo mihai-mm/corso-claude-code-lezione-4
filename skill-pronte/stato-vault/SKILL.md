@@ -53,6 +53,13 @@ Una volta capita la struttura, procedi con i controlli sotto.
    - frontmatter → proponi l'aggiornamento della data.
 4. **Non toccare** mai niente senza il sì esplicito. Applica solo ciò che lo studente conferma.
 
+## Cautele (importante: lavori sul vault vero)
+
+- Se la cartella **non sembra un vault** (nessun progetto, nessuna mappa, nessuna struttura riconoscibile), **dillo e fermati**: meglio non inventare problemi su una cartella qualunque.
+- **Mai applicare correzioni in blocco.** Spostare un file e correggere un link sono modifiche vere: **una conferma per ognuna**, mai "sistemo tutto io".
+- Se un fix non è ovvio (più candidati, un dubbio), **chiedi** invece di decidere tu.
+- Nel dubbio su un file, **non toccarlo** e segnalalo soltanto.
+
 ## Output
 
 Alla fine, un breve riepilogo: cosa è stato sistemato e cosa è rimasto in sospeso (e perché). Ricorda la cadenza: *"rilancia /stato-vault ogni settimana o due, è come riordinare la scrivania."*
