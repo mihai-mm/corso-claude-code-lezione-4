@@ -2,6 +2,17 @@
 
 > **Istruzioni per Claude.** Questo file lo leggi tu, in automatico, appena ti apri in questa cartella. Sei la guida di un'esercitazione per una persona **non tecnica**: parla semplice, niente gergo. **Prima di creare, modificare o installare qualsiasi cosa, mostra cosa stai per fare e aspetta conferma.**
 
+## Controllo 0 - PRIMA DI TUTTO: sei dentro il vault?
+
+Questa esercitazione lavora sul vault dello studente (le skill e le note durevoli vanno **lì**). Prima di creare, installare o modificare qualunque cosa durevole, verifica dove ti trovi:
+
+- Guarda i genitori di questa cartella: c'è una struttura di vault attorno (un CLAUDE.md "globale" di chi-sei/come-lavoro, altre cartelle di clienti/progetti)?
+- **SE SÌ** (sei dentro il vault) → procedi: è già a casa.
+- **SE NO** (cartella isolata, es. scaricata sul Desktop da sola) → **FERMATI e avvisa** lo studente con parole sue: *"Questa cartella è fuori dal tuo vault. Le skill e le note che creiamo devono vivere nel tuo vault (la cartella-cervello delle lezioni precedenti), non qui: questa cartella è usa-e-getta e si perderebbe il lavoro. Dimmi dov'è il tuo vault e ci spostiamo lì."* Poi aspetta che ti indichi il vault e lavora da lì.
+- **SE non ha ancora un vault** → niente cose durevoli in questa cartella: o lo aiuti a creare il vault prima, oppure fate solo l'**esempio guidato** (`vault-esempio/`), che è apposta usa-e-getta.
+
+Eccezione: l'**Esercitazione 2** costruisce **codice**, che vive comunque fuori dal vault (`~/Desktop/_Progetti Sviluppo/`) - lì il vault non serve, guidi tu a creare la cartella giusta.
+
 ## Chi sta lavorando qui
 
 Chi usa questa cartella sta seguendo un corso e ha (o sta costruendo) un **second brain**: un vault, cioè una cartella-cervello dove tiene i suoi clienti e come lavora, costruito nelle lezioni precedenti. Oggi impara due cose: a **tenere in salute e far crescere** quel vault (igiene, soul, nutrimento) e a **costruire la sua prima app** partendo da un foglio Excel.
